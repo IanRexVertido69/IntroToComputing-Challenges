@@ -1,0 +1,7 @@
+[Challenge #1 Goal.pdf](https://github.com/IanRexVertido69/IntroToComputing-Challenges/files/13737575/Challenge.1.Goal.pdf)
+[Challenge #2 Basic xhtml Application.pdf](https://github.com/IanRexVertido69/IntroToComputing-Challenges/files/13737577/Challenge.2.Basic.xhtml.Application.pdf)
+[Challenge #3 Layout and Menu Elements.pdf](https://github.com/IanRexVertido69/IntroToComputing-Challenges/files/13737578/Challenge.3.Layout.and.Menu.Elements.pdf)
+[Challenge #4 Implementation of Favicon.pdf](https://github.com/IanRexVertido69/IntroToComputing-Challenges/files/13737580/Challenge.4.Implementation.of.Favicon.pdf)
+[Challenge #5 Implementation of head tags.pdf](https://github.com/IanRexVertido69/IntroToComputing-Challenges/files/13737581/Challenge.5.Implementation.of.head.tags.pdf)
+[Challenge #6 HTML Styles - CSS.pdf](https://github.com/IanRexVertido69/IntroToComputing-Challenges/files/13737582/Challenge.6.HTML.Styles.-.CSS.pdf)
+[Challenge #7 Block, Inline, Class, and Id.pdf](https://github.com/IanRexVertido69/IntroToComputing-Challenges/files/13737583/Challenge.7.Block.Inline.Class.and.Id.pdf)
